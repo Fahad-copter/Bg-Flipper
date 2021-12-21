@@ -1,0 +1,2 @@
+# Bg-Flipper
+Basic but concept-builder project basically what this does is simply change the background color of an html document very very basic right as it's name sound "Simple" this was the task of Simple page but as soon as you navigate to hex page through the nav bar the button here generates 256^3 color combinations In standard #RRGGBB notation which comes out to be 16,777,216 colors on the fly.
